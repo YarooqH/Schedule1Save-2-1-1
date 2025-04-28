@@ -1,0 +1,12 @@
+{
+    "DataType": "SupplierData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "shirley_watts",
+    "timeSinceMeetingStart": -1,
+    "timeSinceLastMeetingEnd": 32034,
+    "debt": 60.0,
+    "minsUntilDeadDropReady": -1,
+    "deaddropItems": [],
+    "debtReminderSent": false
+}

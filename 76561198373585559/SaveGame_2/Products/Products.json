@@ -1,0 +1,142 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "aspendeath",
+        "aspenslime",
+        "californiacheese",
+        "hairycake",
+        "purplecheese",
+        "strawberryfruit",
+        "thickmonkey",
+        "ultracock",
+        "ultramonkey",
+        "meth"
+    ],
+    "ListedProducts": [
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "ultramonkey"
+    ],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [
+        {
+            "Product": "ogkush",
+            "Mixer": "paracetamol",
+            "Output": "aspendeath"
+        },
+        {
+            "Product": "ogkush",
+            "Mixer": "banana",
+            "Output": "strawberryfruit"
+        },
+        {
+            "Product": "ogkush",
+            "Mixer": "cuke",
+            "Output": "thickmonkey"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "ogkush",
+            "Output": "purplecheese"
+        },
+        {
+            "Product": "chili",
+            "Mixer": "ogkush",
+            "Output": "aspenslime"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "ogkush",
+            "Output": "hairycake"
+        },
+        {
+            "Product": "chili",
+            "Mixer": "hairycake",
+            "Output": "californiacheese"
+        },
+        {
+            "Product": "aspenslime",
+            "Mixer": "mouthwash",
+            "Output": "ultracock"
+        },
+        {
+            "Product": "ultracock",
+            "Mixer": "flumedicine",
+            "Output": "ultramonkey"
+        }
+    ],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 50
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 60
+        },
+        {
+            "String": "greencrack",
+            "Int": 65
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 70
+        },
+        {
+            "String": "meth",
+            "Int": 70
+        },
+        {
+            "String": "cocaine",
+            "Int": 150
+        },
+        {
+            "String": "aspendeath",
+            "Int": 55
+        },
+        {
+            "String": "aspenslime",
+            "Int": 52
+        },
+        {
+            "String": "californiacheese",
+            "Int": 71
+        },
+        {
+            "String": "hairycake",
+            "Int": 58
+        },
+        {
+            "String": "purplecheese",
+            "Int": 64
+        },
+        {
+            "String": "strawberryfruit",
+            "Int": 50
+        },
+        {
+            "String": "thickmonkey",
+            "Int": 46
+        },
+        {
+            "String": "ultracock",
+            "Int": 78
+        },
+        {
+            "String": "ultramonkey",
+            "Int": 105
+        }
+    ],
+    "FavouritedProducts": []
+}

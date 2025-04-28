@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 3,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 550557743,
+            "Text": "Need me 6x Sour Diesel! I'll pay <color=#46CB4F>$435</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1826626377,
+            "Text": "How about 6x Sour Diesel for $465?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1581968856,
+            "Text": "OK FINE! What time????",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1364625096,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1686418975,
+            "Text": "Good!! I'll see u <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -95423808,
+            "Text": "Need me 6x Sour Diesel! I'll pay <color=#46CB4F>$435</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1859672081,
+            "Text": "How about 6x Sour Diesel for $485?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2003332552,
+            "Text": "OK FINE! What time????",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -713937918,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1602234435,
+            "Text": "Good!! I'll see u <b>behind Hyland gun range</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

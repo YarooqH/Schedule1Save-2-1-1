@@ -1,0 +1,41 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 24,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1721900767,
+            "Text": "You got 2x OG Kush? I'll pay <color=#46CB4F>$110</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 121546029,
+            "Text": "Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 345560146,
+            "Text": "You got 3x OG Kush? I'll pay <color=#46CB4F>$160</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -2110637941,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 719484069,
+            "Text": "Great, I'll meet you <b>in front of the motel</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

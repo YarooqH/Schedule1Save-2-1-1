@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 9,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1449241735,
+            "Text": "Hey, if you got 2x Sour Diesel I'll pay <color=#46CB4F>$145</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1066733438,
+            "Text": "How about 2x Sour Diesel for $175?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1491879396,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -943894006,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1837962740,
+            "Text": "Ok, I'll meet you <b>on the west wharf</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 900916608,
+            "Text": "Hey, can I get 3x Sour Diesel? I'll pay <color=#46CB4F>$220</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1505852309,
+            "Text": "How about 3x Sour Diesel for $250?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1068060457,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -800724900,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -390972408,
+            "Text": "Alright cool, I'll meet you <b>behind the construction site</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

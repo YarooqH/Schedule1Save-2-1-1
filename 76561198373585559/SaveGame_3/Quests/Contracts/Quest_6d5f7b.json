@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "6d5f7b76-8a28-4ded-841d-7198b4909d9a",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Meg",
+    "Description": "Meg has requested a delivery of 2x Granddaddy Purple next to the statue in the west park for $170.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 22,
+        "Time": 1200
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f13",
+            "Name": "2x Granddaddy Purple, Next to the statue in the west park",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "457bfd09-d5c6-48e0-88a6-33082446a2c8",
+    "Payment": 170.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 1,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "2f9a4d8a-67b9-4c7e-bd57-0e428879bc06",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 600,
+        "WindowEndTime": 1200
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 22,
+        "Time": 915
+    }
+}

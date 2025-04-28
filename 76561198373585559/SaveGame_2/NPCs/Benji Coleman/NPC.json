@@ -1,0 +1,36 @@
+{
+    "DataType": "DealerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "benji_coleman",
+    "Recruited": true,
+    "AssignedCustomerIDs": [
+        "austin_steiner",
+        "chloe_bowers",
+        "ludwig_meyer",
+        "kyle_cooley",
+        "kathy_henderson",
+        "donna_martin",
+        "mick_lubbin",
+        "beth_penn"
+    ],
+    "ActiveContractGUIDs": [
+        "131755f3-28e8-427c-b5a2-14bdcf60afc8"
+    ],
+    "Cash": 1296.4000244140625,
+    "OverflowItems": {
+        "Items": [
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"greencrack\",\"Quantity\":3,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f13\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "HasBeenRecommended": true
+}

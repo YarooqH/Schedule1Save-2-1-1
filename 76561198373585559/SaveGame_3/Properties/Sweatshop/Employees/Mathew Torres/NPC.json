@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ID": "mathew_torres",
+    "AssignedProperty": "sweatshop",
+    "FirstName": "Mathew",
+    "LastName": "Torres",
+    "IsMale": true,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": -62.35313034057617,
+        "y": -0.25999999046325686,
+        "z": 136.27256774902345
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 3.7252897300277257e-7
+    },
+    "GUID": "bf1eba99-e41a-4728-9f46-4f4445355423",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

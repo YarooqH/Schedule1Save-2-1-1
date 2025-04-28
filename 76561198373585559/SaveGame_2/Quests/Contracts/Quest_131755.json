@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "131755f3-28e8-427c-b5a2-14bdcf60afc8",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Austin",
+    "Description": "Austin has requested a delivery of 4x Granddaddy Purple at the north waterfront for $340.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 22,
+        "Time": 1200
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f13",
+            "Name": "4x Granddaddy Purple, North waterfront",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "bfdeee5b-49a0-45b4-8e08-3e9badf5551d",
+    "Payment": 340.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "granddaddypurple",
+                "Quality": 1,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "7b391235-04fc-49e1-945b-e6a27b0b6596",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 600,
+        "WindowEndTime": 1200
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f13",
+        "ElapsedDays": 22,
+        "Time": 830
+    }
+}

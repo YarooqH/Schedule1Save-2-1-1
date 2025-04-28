@@ -1,0 +1,14 @@
+{
+    "DataType": "GridItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "GUID": "1f464807-6c90-48eb-98f9-6584006b5228",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f13\",\n    \"ID\": \"potsprinkler\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "46a785d3-e21e-4117-8366-ebddea345dee",
+    "OriginCoordinate": {
+        "x": 6.0,
+        "y": 9.0
+    },
+    "Rotation": 0
+}

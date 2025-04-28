@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 1,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1997323762,
+            "Text": "You got 4x Sour Diesel? I'll pay <color=#46CB4F>$290</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -574910358,
+            "Text": "How about 4x Sour Diesel for $300?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1263746989,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1894177767,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -940980003,
+            "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -228274006,
+            "Text": "Hello, I'm after 2x Sour Diesel. I can pay <color=#46CB4F>$145</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -744228422,
+            "Text": "How about 2x Sour Diesel for $165?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1639263566,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 315931283,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1208324592,
+            "Text": "Great, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

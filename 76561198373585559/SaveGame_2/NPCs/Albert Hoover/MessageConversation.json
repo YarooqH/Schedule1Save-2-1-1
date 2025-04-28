@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 0,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 859821405,
+            "Text": "I need a dead drop:\n3x Granddaddy Purple Seed\n2x Green Crack Seed\n2x Sour Diesel Seed\n3x OG Kush Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1347246868,
+            "Text": "Copy. I'll message you when it's ready in about 5 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -508803785,
+            "Text": "We've been working together for a while now, and you've proven to be quite reliable. ",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1801642173,
+            "Text": "If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1386499228,
+            "Text": "I've received $375 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1874649633,
+            "Text": "Hey, that drop is ready under the west bridge",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -371079670,
+            "Text": "Agreed. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1563792416,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1233305701,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 122682256,
+            "Text": "Agreed. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

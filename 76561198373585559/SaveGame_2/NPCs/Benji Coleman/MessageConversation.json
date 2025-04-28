@@ -1,0 +1,41 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 17,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1113880984,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -596895963,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -200507898,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1317757160,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1949015693,
+            "Text": "Hey boss, I've run out of product.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

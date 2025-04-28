@@ -1,0 +1,39 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "Name": "Ultra Cock",
+    "ID": "ultracock",
+    "DrugType": 0,
+    "Properties": [
+        "balding",
+        "spicy",
+        "antigravity"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 164,
+            "g": 103,
+            "b": 72,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 184,
+            "g": 123,
+            "b": 69,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 174,
+            "g": 113,
+            "b": 70,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 131,
+            "g": 82,
+            "b": 57,
+            "a": 255
+        }
+    }
+}

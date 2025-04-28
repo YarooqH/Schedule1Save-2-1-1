@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 22,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": -996199233,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1269783180,
+            "Text": "Cheers bro, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1206760876,
+            "Text": "Yo homie, can I get 4x OG Kush? I'll pay <color=#46CB4F>$225</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 604515507,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1626596477,
+            "Text": "Sick as, I'll meet you <b>behind Hyland gun range</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2001432993,
+            "Text": "Hey dog, I need 4x OG Kush. I'll pay <color=#46CB4F>$230</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2061343017,
+            "Text": "How about 4x OG Kush for $250?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -496312900,
+            "Text": "Aight. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1875667041,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -769457253,
+            "Text": "Hell yeah my friend, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

@@ -1,0 +1,10 @@
+{
+    "DataType": "GameData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "OrganisationName": "sadistic",
+    "Seed": 1649897444,
+    "Settings": {
+        "ConsoleEnabled": false
+    }
+}

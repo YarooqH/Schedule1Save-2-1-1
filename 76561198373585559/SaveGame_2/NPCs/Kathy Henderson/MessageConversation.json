@@ -1,0 +1,65 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "ConversationIndex": 20,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1257160012,
+            "Text": "Hey, can I get 3x OG Kush? I'll pay <color=#46CB4F>$155</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1326045722,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1975078517,
+            "Text": "Ok, I'll meet you <b>behind Thompson construction and demolition</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1403847554,
+            "Text": "You got 3x OG Kush? I'll pay <color=#46CB4F>$155</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 851657185,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1499297652,
+            "Text": "Ok, I'll meet you <b>at the north waterfront</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 213739117,
+            "Text": "Hey, I need 3x OG Kush. I'll pay <color=#46CB4F>$155</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -2101166469,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1690462968,
+            "Text": "Alright cool, I'll meet you <b>next to Bud's bar</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}
